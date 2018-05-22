@@ -35,6 +35,7 @@ We also see that the models using square roots (*ReSU* and *SimSqrt*) learn far 
 Finally, the best results were obtained using either the *ReLU*, *ReLogU*, *Leaky ReLU* or *Sigmoid* activation functions, while the *SimLog* and *SoftSign* activations we not far behind. 
 
 It is important to note that both the *ReLU* and the *Leaky ReLU* are less computationally expensive than the other activation functions used and achieved the best results. We thus recommend the use of one or the other.
+
 ------------------------
 
 ### TODO
